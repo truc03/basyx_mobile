@@ -1,16 +1,22 @@
-# basyx_mobile
+# BaSyx Mobile
 
-A new Flutter project.
+Ứng dụng Flutter hiển thị và giám sát Asset Administration Shell (AAS) sử dụng Eclipse BaSyx REST API.
 
-## Getting Started
+## Chức năng chính
 
-This project is a starting point for a Flutter application.
+- 📊 Dashboard: Thống kê số lượng Asset, trạng thái Online, Warning, Error
+- 📦 Assets: Danh sách Digital Twin / AAS
+- 📈 Monitoring: Theo dõi dữ liệu thời gian thực (Submodel)
+- 🚨 Alerts: Hiển thị cảnh báo theo Submodel (Technical, Relationship, …)
+- ⚙️ Settings: Cấu hình hệ thống
 
-A few resources to get you started if this is your first Flutter project:
+## Công nghệ sử dụng
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Material 3)
+- Dart
+- REST API (Eclipse BaSyx v3.0)
+- HTTP package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Cấu trúc thư mục
+
+ 
