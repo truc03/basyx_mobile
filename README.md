@@ -1,3 +1,4 @@
+
 # BaSyx Mobile
 
 Ứng dụng Flutter hiển thị và giám sát Asset Administration Shell (AAS) sử dụng Eclipse BaSyx REST API.
@@ -20,3 +21,4 @@
 ## Cấu trúc thư mục
 
  
+# basyx_mobile
